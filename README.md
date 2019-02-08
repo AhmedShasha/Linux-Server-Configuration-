@@ -135,5 +135,5 @@ You will take a baseline installation of a Linux distribution on a virtual machi
   
 15. Restart Apache 
   - `sudo service apache2 restart`
-
-16. Visit site at [http://34.219.232.61/](http://34.219.232.61/)
+  
+ ## Special Thanks to *[Ali Mahmoud](https://github.com/AliMahmoud7)* for a very helpful
